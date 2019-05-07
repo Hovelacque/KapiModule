@@ -1,1 +1,1 @@
-export * from './src/kapi-module/kapi-module.module'
+export * from './src/kapi/kapi.module'
