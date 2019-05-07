@@ -1,0 +1,4 @@
+npm install -D ng-packagr (se não estiver na node_modules)
+npm run packagr (gera compilado na pasta dist)
+npm login (caso não estaja logado)
+npm publish dist

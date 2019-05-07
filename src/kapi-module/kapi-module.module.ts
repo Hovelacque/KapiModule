@@ -6,6 +6,9 @@ import { TelaTesteComponent } from './tela-teste/tela-teste.component';
   declarations: [
     TelaTesteComponent
   ],
+  exports:[
+    TelaTesteComponent
+  ],
   imports: [
     CommonModule
   ],
